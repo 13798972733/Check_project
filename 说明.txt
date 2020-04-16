@@ -1,0 +1,6 @@
+dockerfile为docker的搭建文件，requirements。txt为它的依赖配置文件
+views。py为网页控制文件
+facenet。py为人脸检测算法
+face_detector1.py是其人脸识别算法，包括模型创建，准确率验证、识别
+detect。py是人体检测算法
+behavior是其行为分析算法、包括模型创建，准确率验证、识别
