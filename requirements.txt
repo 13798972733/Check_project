@@ -11,7 +11,7 @@ clyent==1.2.1
 cryptography==2.3.1
 cycler==0.10.0
 decorator==4.4.2
-Django==2.0.2
+Django==2.2.13
 gast==0.3.3
 grpcio==1.14.1
 h5py==2.8.0
